@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.1e5e79380497ebc112819f469b88a5d4.css"],"names":[],"mappings":"AACA,IACE,qBAAwB,CACzB,AACD,UACE,gBAAgB,AAChB,gBAAiB,CAClB","file":"app.1e5e79380497ebc112819f469b88a5d4.css","sourcesContent":["\nnav{\n  background-color: black;\n}\n.img-logo{\n  margin-top:15px;\n  margin-left:35px;\n}\n"]}
